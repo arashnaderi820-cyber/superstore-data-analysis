@@ -1,4 +1,4 @@
-,precision,recall,f1-score,support
+Class,precision,recall,f1-score,support
 First Class,0.4521276595744681,0.19428571428571428,0.2717825739408473,875.0
 Same Day,0.0,0.0,0.0,308.0
 Second Class,0.4175824175824176,0.031959629941127,0.059375,1189.0

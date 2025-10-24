@@ -1,2 +1,2 @@
 Model,Accuracy (%),n_estimators,learning_rate,max_depth,min_child_weight,subsample,colsample_bytree,gamma,reg_alpha,reg_lambda,tree_method,objective
-XGBoost,62.82,400,0.02,7,2,0.85,0.85,0.2,0.5,2.0,hist,multi:softmax
+XGBoost,63.28,400,0.02,7,2,0.85,0.85,0.2,0.5,2.0,hist,multi:softmax

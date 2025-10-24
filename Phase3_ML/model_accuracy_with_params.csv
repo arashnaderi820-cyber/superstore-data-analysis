@@ -1,0 +1,2 @@
+Model,Accuracy,n_estimators,learning_rate,max_depth
+XGBoost,63.916666666666664,100,0.1,3

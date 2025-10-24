@@ -1,0 +1,81 @@
+features,importances
+EffectiveDiscount,0.7860366142139323
+Discount,0.06317757536826188
+NetSalesRatio,0.051364041185117185
+Order Priority_Low,0.02416066220043648
+Quantity,0.009389159777765306
+ShippingRatio,0.009081033399825763
+SalesAfterDiscount,0.008709502044268099
+Sales,0.00867799730538476
+DayOfWeek,0.007309943235382795
+Shipping Cost,0.004908138811438138
+Region_East,0.004674154739842247
+DiscountRate,0.003574827179457507
+Month,0.003256746519955642
+Day,0.0017645145769715426
+WeekendImpact,0.0014278180942429307
+CategorySubcategory_Office Supplies - Binders,0.001336560538074882
+Year,0.0012904152036612992
+Ship Mode_Second Class,0.00116911652318506
+Country_Turkey,0.000943449066263924
+Region_South,0.0008942431825535968
+CategorySubcategory_Furniture - Tables,0.0008654935554035356
+Country_United States,0.0008625933420025254
+Region_Southeast Asia,0.0005788303913380616
+Market_US,0.0005582459989832549
+Ship Mode_Same Day,0.0004592625464044326
+Country_Indonesia,0.00036398038699147453
+Order Priority_High,0.0003352192272249178
+Region_Central Asia,0.00023597731216818687
+CategorySubcategory_Technology - Phones,0.00022260884540995882
+Country_France,0.00021854453526619835
+Region_North,0.00018280047090695067
+Region_Oceania,0.00018068993575511865
+CategorySubcategory_Technology - Machines,0.00017134377233669735
+Country_Germany,0.00015721422361632023
+City_Tegucigalpa,0.00015089096288473038
+Country_Other,0.0001443794076432944
+Country_Nigeria,0.00011038722032436398
+Category_Office Supplies,9.874897017391836e-05
+City_Lagos,9.637797520595306e-05
+CategorySubcategory_Office Supplies - Supplies,9.63084268218281e-05
+IsReturned,9.36564467688189e-05
+Market_LATAM,7.661998602841696e-05
+Ship Mode_Standard Class,7.16042646713012e-05
+Country_China,6.925694311712441e-05
+City_Istanbul,6.570312024074937e-05
+CategorySubcategory_Office Supplies - Appliances,6.125353892786978e-05
+CategorySubcategory_Technology - Copiers,5.600738691279627e-05
+CategorySubcategory_Office Supplies - Storage,5.42035775851887e-05
+Region_North Asia,4.9420620625899134e-05
+City_Philadelphia,4.019225883903596e-05
+Segment_Corporate,3.496735352751446e-05
+City_Santo Domingo,3.0003807015413446e-05
+CategorySubcategory_Furniture - Chairs,2.829467550098835e-05
+Region_Caribbean,1.632210298911745e-05
+Category_Technology,1.4930906970525881e-05
+City_Other,6.415353464982545e-07
+Region_Central,2.610485334256373e-07
+Segment_Home Office,1.4019739859210357e-07
+Region_Emea,7.736794299408983e-08
+CategorySubcategory_Office Supplies - Art,3.2188174576444506e-08
+IsWeekend,0.0
+CategorySubcategory_Office Supplies - Paper,0.0
+CategorySubcategory_Furniture - Furnishings,0.0
+CategorySubcategory_Office Supplies - Envelopes,0.0
+Region_Canada,0.0
+Order Priority_Medium,0.0
+Market_Canada,0.0
+Market_Africa,0.0
+Market_EU,0.0
+Market_EMEA,0.0
+CategorySubcategory_Office Supplies - Labels,0.0
+CategorySubcategory_Technology - Accessories,0.0
+CategorySubcategory_Office Supplies - Fasteners,0.0
+Country_Mexico,0.0
+Region_West,0.0
+Country_Brazil,0.0
+City_Manila,0.0
+City_New York City,0.0
+City_Los Angeles,0.0
+City_San Francisco,0.0
